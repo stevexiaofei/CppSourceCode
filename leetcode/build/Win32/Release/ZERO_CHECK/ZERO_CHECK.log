@@ -1,0 +1,9 @@
+﻿  Checking Build System
+  CMake is re-running because D:/Project/leetcode/leetcode/build/test/CMakeFiles/generate.stamp is out-of-date.
+    the file 'D:/Project/leetcode/leetcode/test/CMakeLists.txt'
+    is newer than 'D:/Project/leetcode/leetcode/build/test/CMakeFiles/generate.stamp.depend'
+    result='-1'
+  -- Selecting Windows SDK version  to target Windows 10.0.17763.
+  -- Configuring done
+  -- Generating done
+  -- Build files have been written to: D:/Project/leetcode/leetcode/build
